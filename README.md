@@ -12,6 +12,7 @@ Hey! I'm Max, a software engineer and founder from Cape Town 🇿🇦 🏖️ I'
 I am pretty good at
 
 - React
+- React Native
 - Ruby on Rails
 - Node.js
 - Python
