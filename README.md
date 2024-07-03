@@ -1,4 +1,4 @@
-### xtyrrell
+### xtyrrell 🔭
 
 Hey, I'm Max! I’m a software engineer and previous founder with deep technical passion who builds to product and business priorities.
 
