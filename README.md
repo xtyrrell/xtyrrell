@@ -13,7 +13,6 @@ I mainly work in
 - Ruby on Rails
 - Relational DBs (Postgres)
 
-<hr />
 
 <!--
 
