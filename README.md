@@ -1,21 +1,17 @@
 ### xtyrrell
 
-Hey! I'm Max, a software engineer and founder from Cape Town 🇿🇦 🏖️ I like
+Hey, I'm Max! I’m a software engineer and previous founder with deep technical passion who builds to product and business priorities.
 
-- hacking on the modern peer-to-peer web
-- designing and implementing my own programming languages
-- figuring out how to build stuff that scales
-- building on top of the next level of web infrastructure primitives
-- talking to other people working on stuff
-- learning interesting languages like Haskell, ReasonML
+Unfortunately most of the work I do is not source-available, but feel free to dig through my public repositories here.
 
-I am pretty good at
+I mainly work in
 
+- TypeScript
+- Python
 - React
 - React Native
 - Ruby on Rails
-- Node.js
-- Python
+- Relational DBs (Postgres)
 
 <hr />
 
