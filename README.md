@@ -15,13 +15,6 @@ I mainly work in
 
 <hr />
 
-<a href="https://github.com/xtyrrell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xtyrrell&theme=&count_private=true&show_icons=true&hide_title=true" />
-</a>
-<a href="https://github.com/xtyrrell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtyrrell&layout=compact&count_private=true&show_icons=true&hide_title=true&hide=html&langs_count=8" />
-</a>
-
 <!--
 
 Here are some ideas to get you started:
